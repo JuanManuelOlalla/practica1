@@ -1,0 +1,91 @@
+a{
+    color: #B90504;
+    text-decoration: none;
+}
+body{
+    background-color: #F6F6F6;
+    font-size: 18px;
+    margin: 0 auto;
+}
+#contenedor{
+    margin: 0 auto;
+    width: 1350px;
+}
+header{
+    background-color: #990100;
+    width: 100%;
+    height: 50px;
+    padding-top: 25px;
+}
+header a{
+    color: white;
+    text-decoration: underline;
+    font-size: 24px;
+    padding-top: -25px;
+    padding-left: 100px;
+}
+#logo{
+    float:left;
+    margin-top: -23px;
+    margin-left: 100px;
+    width: 75px;
+}
+#formu1{
+    float: right;
+    margin-right: 50px;
+}
+
+#formu2{
+    text-align: center;
+    margin-top: 50px;
+}
+#masVista{
+    float:left;
+    width: 600px;
+    margin-top: 100px;
+    text-align: center;
+}
+#aleatorias{
+    float:right;
+    width: 600px;
+    margin-top: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+.imagenes{
+    width: 300px;
+    margin-top: 50px;
+}
+.imagenesAle{
+    width: 200px;
+    margin-top: 50px;
+}
+.imagenesBuscar{
+    width: 400px;
+    margin-top: 50px;
+}
+#titulo1{
+    color: #B90504;
+}
+.derecha{
+    float: left;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: 30px;
+}
+.izquierda{
+    float: left;
+    clear: both;
+}
+#imagenReproducir{
+    width: 400px;
+    margin-top: 50px;
+}
+
+#repro{
+    height: 75px;
+}
+
+#menu{
+    float: right;
+}
